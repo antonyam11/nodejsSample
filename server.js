@@ -4,7 +4,10 @@ const fs = require('fs');
 const bodyParser = require('body-parser');
 const { response } = require('express');
 
-const server = app.listen(7000, () => {
+//if process.env.PORT is set, use that. if not, then use 7000
+var port = process.env.PORT || 7000;
+
+const server = app.listen(port, () => {
   console.log(`Express running → PORT ${server.address().port}`);
 });
 
