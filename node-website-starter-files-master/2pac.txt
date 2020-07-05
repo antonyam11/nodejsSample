@@ -1,6 +1,0 @@
-testing write to file testing write to file testing write to file testing write to file [object Object]testing write to file [object Object]testing write to file [object Object]testing write to file [object Object]
-testing write to file first = undefined second = undefined
-testing write to file first = undefined second = undefined
-==>testing write to file first = undefined second = undefined
-==>testing write to file first = antony second = menachery
-==>testing write to file first = Aditya second = Menachery
